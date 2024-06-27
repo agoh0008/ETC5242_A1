@@ -15,3 +15,9 @@ This is a report on analyzing the distribution and outcomes of a hypothetical ne
 - The report concludes with recommendations on how the quiz might be improved based on the statistical findings.
 
 This work is intended to provide a comprehensive statistical overview of the quiz performance, offering insights into both the effectiveness of the quiz design and the differences in performance between student cohorts.
+
+The authors of this report are:
+- Alexandra Goh
+- Vaishnavi Maganti
+- Lucy Field
+- Shalini Nair
